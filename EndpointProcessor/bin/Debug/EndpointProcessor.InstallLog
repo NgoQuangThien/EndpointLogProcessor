@@ -1,0 +1,743 @@
+﻿Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Attempt to stop service EndpointProcessor.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Creating EventLog source EndpointProcessor in log Application...
+Rolling back assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Restoring event log to previous state for source EndpointProcessor.
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Warning: The source EndpointProcessor is not registered on the local machine.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Attempt to stop service EndpointProcessor.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Creating EventLog source EndpointProcessor in log Application...
+Rolling back assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Restoring event log to previous state for source EndpointProcessor.
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Uninstalling assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Removing EventLog source EndpointProcessor.
+Service EndpointProcessor is being removed from the system...
+Service EndpointProcessor was successfully removed from the system.
+Installing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
