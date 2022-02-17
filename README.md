@@ -10,7 +10,7 @@
 
 ##	Bắt đầu dịch vụ
 ```
-	Start service thông qua "Services" của Windows với tên "EndpointProcessor"
+	Khởi động dịch vụ thông qua "Services" của Windows với tên dịch vụ là "EndpointProcessor"
 ```
 
 ##	EventLog và ServiceLog
