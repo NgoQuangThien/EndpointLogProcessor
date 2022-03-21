@@ -133,16 +133,24 @@ namespace EndpointProcessor
                 //  Get timestamp
                 string timestamp = elements["datetime"][0].InnerText;
 
+                //  Get organizatin info
+                XmlNodeList header = doc.GetElementsByTagName("edXML:From")[0].ChildNodes;
+                string org_info = @"";
+                foreach (XmlNode org in header)
+                {
+                    org_info += org.Name + ":" + org.InnerText + ",";
+                }
+
                 //  Get event file path.
                 string event_log_file = file_path_generation(event_log_directory);
 
                 //  Write event to log file.
-                connection_to_event(timestamp, elements["connection"], event_log_file);
-                malware_to_event(timestamp, elements["malware"], event_log_file);
-                os_to_event(timestamp, elements["os"], event_log_file);
-                qualityfeature_to_event(timestamp, elements["qualityfeature"], event_log_file);
-                update_to_event(timestamp, elements["update"], event_log_file);
-                vulnerability_to_event(timestamp, elements["vulnerability"], event_log_file);
+                connection_to_event(timestamp, org_info, elements["connection"], event_log_file);
+                malware_to_event(timestamp, org_info, elements["malware"], event_log_file);
+                os_to_event(timestamp, org_info, elements["os"], event_log_file);
+                qualityfeature_to_event(timestamp, org_info, elements["qualityfeature"], event_log_file);
+                update_to_event(timestamp, org_info, elements["update"], event_log_file);
+                vulnerability_to_event(timestamp, org_info, elements["vulnerability"], event_log_file);
 
                 //  Set process status to success
                 process_status = 0;
@@ -194,7 +202,7 @@ namespace EndpointProcessor
             elements.Add("vulnerability", doc.GetElementsByTagName("Vulnerability"));
             return elements;
         }
-        private void connection_to_event(string timestamp, XmlNodeList nodes, string event_log_file)
+        private void connection_to_event(string timestamp, string org_info, XmlNodeList nodes, string event_log_file)
         {
             XmlNodeList connections = nodes[0].ChildNodes;
             foreach (XmlNode connection in connections)
@@ -203,6 +211,7 @@ namespace EndpointProcessor
                 {
                     Dictionary<string, string> event_info = new Dictionary<string, string>();
                     string message = "@timestamp" + ":" + timestamp + ",";
+                    message += org_info;
                     message += "category" + ":" + "connection" + ",";
                     //  Get machine infor
                     for (int i = 0; i < connection.Attributes.Count; i++)
@@ -227,7 +236,7 @@ namespace EndpointProcessor
                 }
             }
         }
-        private void malware_to_event(string timestamp, XmlNodeList nodes, string event_log_file)
+        private void malware_to_event(string timestamp, string org_info, XmlNodeList nodes, string event_log_file)
         {
             XmlNodeList malwares = nodes[0].ChildNodes;
             foreach (XmlNode malware in malwares)
@@ -236,6 +245,7 @@ namespace EndpointProcessor
                 {
                     Dictionary<string, string> event_info = new Dictionary<string, string>();
                     string message = "@timestamp" + ":" + timestamp + ",";
+                    message += org_info;
                     message += "category" + ":" + "malware" + ",";
 
                     //  Get machine infor
@@ -261,13 +271,14 @@ namespace EndpointProcessor
                 }
             }
         }
-        private void os_to_event(string timestamp, XmlNodeList nodes, string event_log_file)
+        private void os_to_event(string timestamp, string org_info, XmlNodeList nodes, string event_log_file)
         {
             XmlNodeList oss = nodes[0].ChildNodes;
             foreach (XmlNode os in oss)
             {
                 Dictionary<string, string> event_info = new Dictionary<string, string>();
                 string message = "@timestamp" + ":" + timestamp + ",";
+                message += org_info;
                 message += "category" + ":" + "os" + ",";
 
                 //  Get machine infor
@@ -292,13 +303,14 @@ namespace EndpointProcessor
                 write_to_file(message, event_log_file);
             }
         }
-        private void qualityfeature_to_event(string timestamp, XmlNodeList nodes, string event_log_file)
+        private void qualityfeature_to_event(string timestamp, string org_info, XmlNodeList nodes, string event_log_file)
         {
             XmlNodeList qualityfeatures = nodes[0].ChildNodes;
             foreach (XmlNode qualityfeature in qualityfeatures)
             {
                 Dictionary<string, string> event_info = new Dictionary<string, string>();
                 string message = "@timestamp" + ":" + timestamp + ",";
+                message += org_info;
                 message += "category" + ":" + "qualityfeature" + ",";
 
                 //  Get machine infor
@@ -323,18 +335,19 @@ namespace EndpointProcessor
                 write_to_file(message, event_log_file);
             }
         }
-        private void update_to_event(string timestamp, XmlNodeList nodes, string event_log_file)
+        private void update_to_event(string timestamp, string org_info, XmlNodeList nodes, string event_log_file)
         {
             XmlNodeList updates = nodes[0].ChildNodes;
             foreach (XmlNode update in updates)
             {
                 string message = "@timestamp" + ":" + timestamp + ",";
+                message += org_info;
                 message += "category" + ":" + "update" + ",";
                 message += update.Name + ":" + update.InnerText;
                 write_to_file(message, event_log_file);
             }
         }
-        private void vulnerability_to_event(string timestamp, XmlNodeList nodes, string event_log_file)
+        private void vulnerability_to_event(string timestamp, string org_info, XmlNodeList nodes, string event_log_file)
         {
             XmlNodeList vulnerabilitys = nodes[0].ChildNodes;
             foreach (XmlNode vulnerability in vulnerabilitys)
@@ -343,6 +356,7 @@ namespace EndpointProcessor
                 {
                     Dictionary<string, string> event_info = new Dictionary<string, string>();
                     string message = "@timestamp" + ":" + timestamp + ",";
+                    message += org_info;
                     message += "category" + ":" + "vulnerability" + ",";
 
                     //  Get machine infor

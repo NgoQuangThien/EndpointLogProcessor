@@ -741,3 +741,16 @@ Affected parameters are:
    logtoconsole = 
    assemblypath = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.exe
    logfile = C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing assembly 'C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog
+Installing service EndpointProcessor...
+Service EndpointProcessor has been successfully installed.
+Creating EventLog source EndpointProcessor in log Application...
+Committing assembly 'C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\bin\Debug\EndpointProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+   logfile = C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\bin\Debug\EndpointProcessor.InstallLog

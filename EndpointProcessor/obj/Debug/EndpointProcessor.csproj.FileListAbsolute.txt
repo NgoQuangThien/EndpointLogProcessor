@@ -7,3 +7,12 @@ C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\obj\Debug\En
 C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\obj\Debug\EndpointProcessor.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\obj\Debug\EndpointProcessor.exe
 C:\Users\Administrator\Desktop\Endpoint-Processor\EndpointProcessor\obj\Debug\EndpointProcessor.pdb
+C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\bin\Debug\EndpointProcessor.exe.config
+C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\bin\Debug\EndpointProcessor.exe
+C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\bin\Debug\EndpointProcessor.pdb
+C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\obj\Debug\EndpointProcessor.EndpointProcessor.resources
+C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\obj\Debug\EndpointProcessor.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\obj\Debug\EndpointProcessor.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\obj\Debug\EndpointProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\obj\Debug\EndpointProcessor.exe
+C:\Users\Administrator\Desktop\EndpointLogProcessor-main\EndpointProcessor\obj\Debug\EndpointProcessor.pdb
